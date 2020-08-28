@@ -1,2 +1,3 @@
-# ligo
-CLI to execute Liferay Gogo Shell Commands synchronously from normal shell, based on goexpect
+# ligo - Script Liferay Gogo shell commands
+
+Build a local distribution with `./gradlew installDist`, run it with `./build/install/ligo/bin/ligo --help`
